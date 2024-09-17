@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/shortPractice.sol": "shortPrac"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/shortPractice.sol": {
+			"keccak256": "0xd7c6a0f4996af11f6f211fb950d8fb940c3631d29e6d5ad790347957d36f0a16",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://af90fa3fb579591231e75625594a00691afc15775e912c5cd6363eb450991d8c",
+				"dweb:/ipfs/QmXCmL6zQqEg8ESSBXcpvHdZDcG2Kvntwwd2gVZMr9cTHW"
+			]
+		}
+	},
+	"version": 1
+}
